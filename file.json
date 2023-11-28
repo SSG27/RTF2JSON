@@ -1,0 +1,37 @@
+{
+  "files": [
+    {
+      "text": "Hello bold italic underline text!",
+      "uuid": "6ae69fa3-f428-4866-9417-1a60b272fe94",
+      "metadata": [
+        {
+          "type": "filename",
+          "value": "sample.rtf",
+          "size": 70,
+          "creation_time": "2023-11-20T15:05:01.703067",
+          "modification_time": "2023-11-20T15:04:58.102273"
+        }
+      ],
+      "structuredtext": [
+        {
+          "text": "Hello bold italic underline text!",
+          "metadata": [
+            {
+              "type": "font",
+              "value": "Default Font"
+            },
+            {
+              "type": "font-size",
+              "value": 12
+            }
+          ]
+        }
+      ],
+      "subfiles": [
+        {
+          "uuid": "6ae69fa3-f428-4866-9417-1a60b272fe94"
+        }
+      ]
+    }
+  ]
+}
